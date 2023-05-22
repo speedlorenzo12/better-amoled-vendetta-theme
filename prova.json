@@ -1,5 +1,8 @@
 {
-"name": "prova"
-"description": "none"
-"authors":"speedlorenzo12"
-}
+    "name": "speedlorenzo12",
+    "description": "prova"
+    "authors": [
+        {
+            "name": "speedlorenzo12",
+        }
+    ],

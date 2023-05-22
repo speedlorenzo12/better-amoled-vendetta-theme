@@ -10,6 +10,10 @@
  
     "SPOILER_HIDDEN_BACKGROUND" : [
     "transparent"
-    ]
+        ],
+    
+    "BACKGROUND_MOBILE_SECONDARY" : [
+        "transparent"
+        ]
 }
  

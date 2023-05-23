@@ -8,12 +8,12 @@
         }
     ],
  
-"INTERACTIVE_NORMAL": [
+"INTERACTIVE_NORMAL" : [
     "#00ffff",
     "#00ffff",
     "#00ffff"
 ],
-    "TEXT_NORMAL ":[
+    "TEXT_NORMAL " : [
         "00ffff"
 ]
 }

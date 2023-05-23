@@ -13,6 +13,9 @@
      ],
       "TEXT_NORMAL " : [
           "00ffff"
+      ],
+     "SPOILER_HIDDEN_BACKGROUND" : [
+         "transparent"
       ]
    },
     "spec" : 2

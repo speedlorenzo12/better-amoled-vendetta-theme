@@ -7,12 +7,13 @@
             "id": "741403195976450121"
         }
     ],
- 
+     "semanticColors": {
 "INTERACTIVE_NORMAL" : [
     "#00ffff"
 ],
     "TEXT_NORMAL " : [
         "00ffff"
 ]
+}
 }
  

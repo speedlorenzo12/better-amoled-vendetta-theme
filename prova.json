@@ -8,12 +8,9 @@
         }
  ],
  "semanticColors": {
-    "INTERACTIVE_NORMAL" : [
+    "INTERACTIVE_ACTIVE" : [
          "#00ffff"
      ],
-      "TEXT_NORMAL " : [
-          "00ffff"
-      ],
      "SPOILER_HIDDEN_BACKGROUND" : [
          "transparent"
       ]

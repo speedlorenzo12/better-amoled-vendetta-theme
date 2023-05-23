@@ -8,12 +8,8 @@
         }
     ],
  
-    "SPOILER_HIDDEN_BACKGROUND" : [
-    "transparent"
-        ],
-    
-    "BACKGROUND_MOBILE_SECONDARY" : [
-        "transparent"
-        ]
+"HEADER_SECONDARY": [
+    "#000000"
+] 
 }
  

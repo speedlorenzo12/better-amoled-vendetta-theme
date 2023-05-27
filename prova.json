@@ -40,9 +40,6 @@
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#000000"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
         ]
    },
     "spec" : 2

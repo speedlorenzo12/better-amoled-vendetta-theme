@@ -13,7 +13,13 @@
      ],
      "SPOILER_HIDDEN_BACKGROUND" : [
          "transparent"
-      ]
+     ],
+     "HEADER_PRIMARY" : [
+         "#00ffff"
+     ],
+      "HEADER_SECONDARY" : [
+      "#00ffff"
+     ]
    },
     "spec" : 2
 }

@@ -39,7 +39,7 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#000000"
+            "transparent"
         ]
    },
     "spec" : 2

@@ -34,6 +34,9 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
+        ],
+        "BACKGROUND_MODIFIER ACCENT": [
+            "#ffffff"
         ]
    },
     "spec" : 2

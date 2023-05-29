@@ -37,6 +37,9 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#ffffff"
+        ],
+        "CHAT_BACKGROUND" : [
+            "#000000"
         ]
    },
     "spec" : 2

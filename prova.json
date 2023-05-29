@@ -34,7 +34,15 @@
         ],
         "CHAT_BACKGROUND" : [
             "#000000"
-        ],
+        ], 
+        "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+      "#000000"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#232428e6",
+      "#ebedefe6",
+      "#232428e6"
+    ],
         "BACKGROUND_MODIFIER_ACCENT": [
            "#ffffff"
         ],

@@ -49,6 +49,9 @@
         ],
         "INTERACTIVE_HOVER" : [
 	   "ff00ff"
+	],
+	 "BUTTON_DANGER_BACKGROUND":[
+           "ff0000"
 	]
       },
         "rawColors": { 

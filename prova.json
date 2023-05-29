@@ -46,7 +46,7 @@
         ]
  },
         "rawColors": { 
-	"PRIMARY_400": "#00ffff"
+	"PRIMARY_400": "#00ffff",
 	"PRIMARY_600": "#000000"
    },
     "spec" : 2

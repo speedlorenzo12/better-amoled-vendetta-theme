@@ -47,10 +47,7 @@
         "TEXT_DANGER" : [
            "#ff0000"
         ]
-       /** "INTERACTIVE_NORMAL" : [
-           "#00ffff"
-     ]**/
-     "rawColors": { 
+        "rawColors": { 
 					"PRIMARY_400": "#00ffff"
 },
    },

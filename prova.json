@@ -14,6 +14,9 @@
         "BACKGROUND_SECONDARY": [
             "#000000"
         ],
+        "BACKGROUND_SECONDARY_ALT " : [
+            "#000000"
+        ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
@@ -36,15 +39,15 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#ffffff"
+           "#ffffff"
         ],
         "CHAT_BACKGROUND" : [
             "#000000"
         ],
-         "TEXT_DANGER" : [
-            "#ff0000"
-     ],
-     "INTERACTIVE_NORMAL" : [
+        "TEXT_DANGER" : [
+           "#ff0000"
+        ],
+        "INTERACTIVE_NORMAL" : [
            "#0000ff"
      ]
    },

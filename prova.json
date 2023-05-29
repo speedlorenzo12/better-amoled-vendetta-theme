@@ -11,9 +11,6 @@
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
-        "BACKGROUND_SECONDARY": [
-            "#4d4d4d"
-        ],
         "BACKGROUND_SECONDARY_ALT " : [
             "#000000"
         ],
@@ -44,6 +41,9 @@
         "TEXT_DANGER" : [
            "#ff0000"
         ],
+        "INTERACTIVE_NORMAL" : [
+          "#00ffff"
+     ],
 	 "BUTTON_DANGER_BACKGROUND":[
            "ff0000"
 	]

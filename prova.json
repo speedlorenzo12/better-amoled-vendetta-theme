@@ -43,7 +43,7 @@
         ],
         "INTERACTIVE_NORMAL" : [
           "#00ffff"
-     ],
+        ],
 	 "BUTTON_DANGER_BACKGROUND":[
            "ff0000"
 	]

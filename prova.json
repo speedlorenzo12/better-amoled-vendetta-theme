@@ -40,7 +40,10 @@
         ],
         "CHAT_BACKGROUND" : [
             "#000000"
-        ]
+        ],
+     "TEXT_DANGER" : [
+         "#ff0000"
+     ]
    },
     "spec" : 2
 }

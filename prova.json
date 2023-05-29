@@ -47,12 +47,12 @@
         "TEXT_DANGER" : [
            "#ff0000"
         ]
- }
+ };
         "rawColors": { 
 	"PRIMARY_400": [
 	 "#00ffff"
 	]
-   },
+   };
     "spec" : 2
 }
  

@@ -41,9 +41,6 @@
         "BACKGROUND_MODIFIER_ACCENT": [
            "#ffffff"
         ],
-	"INTERACTIVE_NORMAL" : [
-           "#00ffff"
-        ],
         "TEXT_DANGER" : [
            "#ff0000"
         ],

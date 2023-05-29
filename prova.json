@@ -12,7 +12,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#666699"
+            "#4d4d4d"
         ],
         "BACKGROUND_SECONDARY_ALT " : [
             "#000000"
@@ -46,7 +46,7 @@
         ]
  },
         "rawColors": { 
-	"PRIMARY_400": "#4d4d4d",
+	"PRIMARY_400": "#00ffff",
 	"PRIMARY_600": "#000000"
    },
     "spec" : 2

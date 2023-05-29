@@ -47,9 +47,6 @@
         "TEXT_DANGER" : [
            "#ff0000"
         ],
-        "INTERACTIVE_HOVER" : [
-	   "ff00ff"
-	],
 	 "BUTTON_DANGER_BACKGROUND":[
            "ff0000"
 	]

@@ -46,11 +46,14 @@
         ],
         "TEXT_DANGER" : [
            "#ff0000"
-        ]
- },
+        ],
+        "INTERACTIVE_HOVER" : [
+	   "ff00ff"
+	]
+      },
         "rawColors": { 
 	"PRIMARY_600": "#000000"
-   },
-    "spec" : 2
+  },
+  "spec" : 2
 }
  

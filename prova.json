@@ -8,7 +8,7 @@
         }
  ],
  "semanticColors": {
-    "BACKGROUND_PRIMARY": [
+         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
@@ -41,8 +41,11 @@
         "CHAT_BACKGROUND" : [
             "#000000"
         ],
-     "TEXT_DANGER" : [
-         "#ff0000"
+         "TEXT_DANGER" : [
+            "#ff0000"
+     ],
+     "INTERACTIVE_NORMAL" : [
+           "#0000ff"
      ]
    },
     "spec" : 2

@@ -8,6 +8,7 @@
         }
  ],
  "semanticColors": {
+     "BACKGROUND_SECONDARY":"#000000"
      },
 "rawColors": { 
     "PRIMARY_800": "#000000",

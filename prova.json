@@ -7,7 +7,10 @@
             "id": "741403195976450121"
         }
  ],
-
+ "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ]
         "rawColors": { 
     "PRIMARY_800": "#000000",
     "RED_560" : "#ff0000",

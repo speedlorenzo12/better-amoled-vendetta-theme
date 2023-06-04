@@ -8,12 +8,11 @@
         }
  ],
  "semanticColors": {
-     "BACKGROUND_SECONDARY":"#000000"
+     "BACKGROUND_SECONDARY":[
+         "#000000"
+         ]
      },
 "rawColors": { 
-    "PRIMARY_800": "#000000",
-    "RED_560" : "#ff0000",
-    "RED_400": "#ff0000"
   },
   "spec" : 2
 }

@@ -1,42 +1,16 @@
-
- "semanticColors": {
-        "BACKGROUND_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#000000"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
-        ],
-        "CHAT_BACKGROUND" : [
-            "#000000"
-        ], 
-        "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-      "#000000"
-    ],
-    "FORUM_POST_TAG_BACKGROUND": [
-      "#000000"
-    ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-           "#ffffff"
-        ],
-        "TEXT_DANGER" : [
-           "#ff0000"
-        ],
-	 "BUTTON_DANGER_BACKGROUND":[
-           "ff0000"
-	]
-      },
+{
+    "name": "Better Amoled",
+    "description": "Better amoled for me",
+    "authors": [
+        {
+            "name": "speedlorenzo12",
+            "id": "741403195976450121"
+        }
+ ],
+"rawColors": { 
+    "PRIMARY_800": "#000000",
+    "RED_560" : "#ff0000",
+    "RED_400": "#ff0000"
+  },
+  "spec" : 2
+}

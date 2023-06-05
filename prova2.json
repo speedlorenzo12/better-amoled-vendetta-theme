@@ -10,9 +10,8 @@
  "semanticColors": {
      },
 "rawColors": { 
-     
+    "PRIMARY_630": "#000000",
     "PRIMARY_800": "#000000",
-    "PRIMARY_700": "#000000"
   },
   "spec" : 2
 }

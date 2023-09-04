@@ -49,12 +49,9 @@
     "FORUM_POST_TAG_BACKGROUND": [
       "#000000"
     ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-           "#ffffff"
-        ],
-        "TEXT_DANGER" : [
-           "#ff0000"
-        ],
+     "TEXT_DANGER" : [
+      "#ff0000"
+    ],
 	 "BUTTON_DANGER_BACKGROUND":[
            "ff0000"
 	]

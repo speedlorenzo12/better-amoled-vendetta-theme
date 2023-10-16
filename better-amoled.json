@@ -65,4 +65,7 @@
   },
   "spec" : 2
 }
- 
+"plus": {
+	"version": 0,
+	"iconPack": "rosiecord-plumpy"
+ }

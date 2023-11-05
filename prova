@@ -1,0 +1,13 @@
+{
+    "name": "My Theme",
+    "description": "Un tema semplice",
+    "version": "1.0.0"
+  }
+}
+{
+  "colors": {
+    "appBackground": "#000000",
+    "appBarBackground": "#ffffff",
+    "appBarText": "#ffffff"
+  },
+

@@ -1,0 +1,70 @@
+colors:
+    appBackground: #000000
+    appBarBackground: #121212
+    appBarText: #ffffff
+    tabBarBackground: #121212
+    tabBarText: #ffffff
+    inputBackground: #121212
+    inputText: #ffffff
+    messageText: #ffffff
+    messageLink: #0080ff
+    messageCode: #999999
+    messageUser: #ffffff
+    messageMention: #ff0000
+    messageAttachment: #0080ff
+    messageSticker: #0080ff
+    messageEmbedBackground: #121212
+    messageEmbedTitle: #ffffff
+    messageEmbedDescription: #ffffff
+    messageEmbedAuthor: #ffffff
+    messageEmbedFieldTitle: #ffffff
+    messageEmbedFieldValue: #ffffff
+    messageEmbedFooter: #ffffff
+    messageEmbedImage: #0080ff
+    messageEmbedVideo: #0080ff
+    messageEmbedSpoiler: #0080ff
+
+    emoji: #ffffff
+    emojiBackground: #121212
+    emojiSkin: #ffffff
+    emojiBorder: #ffffff
+
+    loadingIndicator: #ffffff
+    loadingIndicatorBackground: #121212
+
+    actionRowBackground: #121212
+    actionRowButton: #ffffff
+    actionRowButtonText: #ffffff
+
+    modalBackground: #121212
+    modalText: #ffffff
+    modalButton: #ffffff
+    modalButtonText: #ffffff
+
+    popupBackground: #121212
+    popupText: #ffffff
+    popupButton: #ffffff
+    popupButtonText: #ffffff
+
+    statusBarBackground: #121212
+    statusBarText: #ffffff
+
+    notificationsBackground: #121212
+    notificationsText: #ffffff
+    notificationsButton: #ffffff
+    notificationsButtonText: #ffffff
+
+    custom:
+        serverIcons:
+            - name: "My server"
+              icon: "https://example.com/my-server-icon.png"
+        channelIcons:
+            - name: "Text"
+              icon: "https://example.com/text-channel-icon.png"
+            - name: "Voice"
+              icon: "https://example.com/voice-channel-icon.png"
+        userIcons:
+            - name: "Me"
+              icon: "https://example.com/my-profile-icon.png"
+            - name: "Friend"
+              icon: "https://example.com/friend-profile-icon.png"

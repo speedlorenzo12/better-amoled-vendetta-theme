@@ -1,4 +1,12 @@
-colors:
+{
+    "name": "Better Amoled",
+    "description": "Better amoled whit themes+",
+    "authors": [
+        {
+            "name": "speedlorenzo12",
+            "id": "741403195976450121"
+        } 
+ ],colors:
     appBackground: #000000
     appBarBackground: #121212
     appBarText: #ffffff

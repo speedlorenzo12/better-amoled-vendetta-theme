@@ -9,38 +9,24 @@
  ],
  "semanticColors": {
         "BACKGROUND_PRIMARY": [
-            "#000000",
-            "#000000",
-            "#000000"       
+            "#000000"
         ],
        "BACKGROUND_TERTIARY": [
-            "#000000",
-            "#000000",
-            "#000000"      
+            "#000000"     
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000",
-            "#000000",
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000",
-            "#000000",
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000",
-            "#000000",
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000",
-            "#000000",
             "#000000"
         ],
         "CHAT_BACKGROUND" : [
-            "#000000",
-            "#000000",
             "#000000"
         ], 
         "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [

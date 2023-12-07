@@ -31,8 +31,12 @@
     "BACKGROUND_MESSAGE_HOVER": [
       "#000000"
     ],
-
-    "TEXT_DANGER": [
+  
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000"
+    ],
+  
+     "TEXT_DANGER": [
       "#FF0000"
     ],
     "CHAT_BACKGROUND": [

@@ -8,69 +8,27 @@
         } 
  ],
  "semanticColors": {
-"HEADER_PRIMARY": [
-      "#000000"
-    ],
-        "BACKGROUND_SECONDARY": [
-      "#000000"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#000000"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#000000"
-    ],
-"HEADER_SECONDARY": [
-      "#000000"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#000000"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#000000"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#000000"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#000000"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#000000"
-    ],
-        "BACKGROUND_MODIFIER_HOVER": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000"
-    ],
-     "TEXT_DANGER": [
-      "#FF0000"
-    ],
-    "CHAT_BACKGROUND": [
-      "#000000"
-    ],
-         "BUTTON_DANGER_BACKGROUND":[
-           "ff0000"
-        ],
-    "FORUM_POST_TAG_BACKGROUND": [
-      "#000000"
-    ],
-        "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
-      "#000000"
-    ]
+    "HEADER_PRIMARY": ["#000000"],
+    "HEADER_SECONDARY": ["#000000"],
+    "INTERACTIVE_NORMAL": ["#000000"],
+    "INTERACTIVE_HOVER": ["#000000"],
+    "INTERACTIVE_ACTIVE": ["#000000"],
+    "INTERACTIVE_MUTED": ["#000000"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    
+    "BACKGROUND_TERTIARY": ["#000000"],
+    
+    "BACKGROUND_FLOATING": ["000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+    "BACKGROUND_MESSAGE_HOVER": ["#000000"],
+    "BACKGROUND_MODIFIER_HOVER": ["#000000"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
+    "TEXT_DANGER": ["#ff0000"],
+    "CHAT_BACKGROUND": ["#000000"]
+  },
  },
  "rawColors": { 
     "PRIMARY_600": "#000000",

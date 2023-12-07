@@ -15,7 +15,18 @@
     "BACKGROUND_PRIMARY": [
       "#000000"
     ],
-
+"HEADER_SECONDARY": [
+      "#000000"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#000000"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#000000"
+    ],
     "BACKGROUND_TERTIARY": [
       "#000000"
     ],

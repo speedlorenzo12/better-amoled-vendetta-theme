@@ -31,18 +31,7 @@
     "BACKGROUND_MESSAGE_HOVER": [
       "#000000"
     ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000"
-    ],
+
     "TEXT_DANGER": [
       "#FF0000"
     ],

@@ -73,11 +73,10 @@
     ],
     "CHAT_BACKGROUND": [
       "#000000"
-    ]
+    ],
          "BUTTON_DANGER_BACKGROUND":[
            "ff0000"
-        ]
-  },
+        ],
     "FORUM_POST_TAG_BACKGROUND": [
       "#000000"
     ],

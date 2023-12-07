@@ -27,7 +27,6 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
     "TEXT_DANGER": ["#ff0000"],
     "CHAT_BACKGROUND": ["#000000"]
-  },
  },
  "rawColors": { 
     "PRIMARY_600": "#000000",

@@ -10,7 +10,6 @@
  ],
 "spec": 2,
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#000000"],
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#08080A"],
     "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],

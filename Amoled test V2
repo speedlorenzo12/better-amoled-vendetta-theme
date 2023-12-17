@@ -10,12 +10,7 @@
  ],
 "spec": 2,
   "semanticColors": {
-    "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#08080A"],
-
     
-    "BACKGROUND_SECONDARY_ALT": ["#000000"],
-    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",

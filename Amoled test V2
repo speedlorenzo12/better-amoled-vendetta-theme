@@ -10,7 +10,7 @@
  ],
 "spec": 2,
   "semanticColors": {
-   
+   "CHAT_BACKGROUND":"transparent"
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
@@ -21,7 +21,7 @@
     "PRIMARY_800": "#08080A",
     "PLUM_17": "#000000",
     "PLUM_18": "#08080A"
-    
+    "PLUM_20": "#000000"
     
     
   },

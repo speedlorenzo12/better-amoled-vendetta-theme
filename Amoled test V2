@@ -11,6 +11,7 @@
 "spec": 2,
   "semanticColors": {
    "CHAT_BACKGROUND":["transparent"]
+   "BACKGROUND_TERTIARY":["transparent"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",

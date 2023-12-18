@@ -10,8 +10,8 @@
  ],
 "spec": 2,
   "semanticColors": {
-   "MOBILE_BACKGROUND_SECONDARY": ["transparent"],
-   "CHAT_BACKGROUND":["transparent"]
+   "BACKGROUND_SECONDARY": ["#000000"],
+"BACKGROUND_TERTIARY": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
@@ -22,7 +22,7 @@
     "PRIMARY_800": "#08080A",
     "PLUM_17": "#000000",
     "PLUM_18": "#08080A",
-    "PLUM_20": "#000000"
+    
     
     
   },

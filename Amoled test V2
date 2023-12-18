@@ -10,6 +10,7 @@
  ],
 "spec": 2,
   "semanticColors": {
+   "MOBILE_BACKGROUND_SECONDARY": ["transparent"],
    "CHAT_BACKGROUND":["transparent"],
    "BACKGROUND_TERTIARY":["transparent"]
   },

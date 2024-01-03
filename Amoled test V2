@@ -8,26 +8,29 @@
             "id": "741403195976450121"
         } 
  ],
-"spec": 2,
+  "spec": 2,
   "semanticColors": {
-   
-"BACKGROUND_SECONDARY": ["#000000"],
-"BACKGROUND_TERTIARY": ["#000000"]
+    
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#08080A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
     "PRIMARY_600": "#000000",
-    "PRIMARY_630": "#000000",
-    "PRIMARY_660": "#08080A",
+    
+   
     "PRIMARY_700": "#08080A",
-    "PRIMARY_800": "#08080A"
-    
-    
-    
-    
+    "PRIMARY_800": "#08080A",
+
+    "PLUM_17": "#000000",
+    "PLUM_18": "#08080A",
   },
   "plus": {
     "version": "0",
     "iconpack": "md3"
   }
-}

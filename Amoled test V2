@@ -13,11 +13,7 @@
     
     
     "BACKGROUND_ACCENT": ["#08080A"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
-    "SPOILER_REVEALED_BACKGROUND": ["#232428"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-    
-    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"]
   },
   "rawColors": {
     
@@ -28,7 +24,7 @@
     "PRIMARY_800": "#08080A",
 
     "PLUM_17": "#000000",
-    "PLUM_18": "#08080A",
+    "PLUM_18": "#08080A"
   },
   "plus": {
     "version": "0",

@@ -11,15 +11,18 @@
   "spec": 2,
   "semanticColors": {
     
-    
+   
     "BACKGROUND_ACCENT": ["#08080A"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"]
+    
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    
+    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
   },
   "rawColors": {
     
     "PRIMARY_600": "#000000",
     
-   
+    "PRIMARY_660": "#08080A",
     "PRIMARY_700": "#08080A",
     "PRIMARY_800": "#08080A",
 
@@ -30,3 +33,4 @@
     "version": "0",
     "iconpack": "md3"
   }
+}

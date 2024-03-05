@@ -1,7 +1,7 @@
 
 {
-    "name": "Better Amoled V2",
-    "description": "Better amoled whit themes+",
+    "name": "dark theme",
+    "description": "Dark whit themes+",
     "authors": [
         {
             "name": "speedlorenzo12",
@@ -9,27 +9,8 @@
         } 
  ],
   "spec": 2,
-  "semanticColors": {
-    
-   
-    "BACKGROUND_ACCENT": ["#08080A"],
-    
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-    
-    "ANDROID_NAVIGATION_BAR_BACKGROUND": ["#000000"]
-  },
-  "rawColors": {
-    
-    "PRIMARY_600": "#000000",
-    
-    "PRIMARY_660": "#08080A",
-    "PRIMARY_700": "#08080A",
-    "PRIMARY_800": "#08080A",
-    "PLUM_18": "#08080A",
-    "PLUM_20": "#000000"
-  },
   "plus": {
     "version": "0",
-    "iconpack": "md3"
+    "iconpack": "rosiecord-plumby"
   }
 }

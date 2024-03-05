@@ -8,9 +8,10 @@
             "id": "741403195976450121"
         } 
  ],
-  "spec": 2,
-  "plus": {
-    "version": "0",
-    "iconpack": "rosiecord-plumby"
-  }
+},
+"plus": {
+        "version": 0,
+        "iconPack": "rosiecord-plumby"
+},
+  "spec" : 2
 }

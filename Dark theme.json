@@ -18,9 +18,8 @@
         "mentionLineColor": "#ff0",
         "unreadBadgeColor": "#00f"
         "icons":{
-        "customOverlays": true
         },
-
+"customOverlays": true
 },
   "spec" : 2
 }

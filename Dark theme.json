@@ -15,8 +15,8 @@
 "plus": {
         "version": 0,
         "iconPack": "rosiecord-plumby",
-        "mentionLineColor": "#ff0",
-        "unreadBadgeColor": "#f00",
+        "mentionLineColor": "#ffff00",
+        "unreadBadgeColor": "#ff0000",
         "icons":{
         },
 "customOverlays": true

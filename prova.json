@@ -13,7 +13,9 @@
  },
 "plus": {
         "version": 0,
-        "iconPack": "rosiecord-plumby"
+        "iconPack": "rosiecord-plumby",
+        "mentionLineColor": "#ff0",
+        "unreadBadgeColor": "#f00"
 },
   "spec" : 2
 }
